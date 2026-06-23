@@ -1,10 +1,13 @@
 body{
 
     background-color: indigo;
+    color: black;
+    margin: 0px;
+    margin-bottom: 100px;
 
 }
 
-heather{
+header{
 
     border-bottom: solid 2px black;
     padding: 20px;
